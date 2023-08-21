@@ -1,10 +1,27 @@
 # eTuristickaAgencija
-RS2 seminarski rad
+## RS2 seminarski rad
 
-API i desktop
-Username admin
-Password test
+## Kredencijali za prijavu
 
-Mobile
-Username mobile
-password test
+- Admin/API
+
+  ```
+  Korisnicko ime: admin
+  Password: test
+  ```
+- Test
+
+  ```
+  Korisnicko ime: mobile
+  Password: test
+  ```
+
+#### Kredencijali za placanje
+
+  ```
+  Broj kartice: 4242 4242 4242 4242
+  CVC: 123
+  Country: United States
+  ZIP Code: 4222
+  ```
+
